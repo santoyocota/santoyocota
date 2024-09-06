@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alejandro Santoyo</h1>
 <h3 align="center">A passionate about science and technology</h3>
 
-- 🔭 I’m currently working on **data science** - 📫 How to reach me
-**omar.oasc@gmail.com** - 👯 I’m looking to collaborate on **data science** - 👨‍💻
-All of my public projects are available at **https://github.com/santoyocota** -
-⚡ Fun fact **I like to know new things about the universe**
+<ul>
+  <li>🔭 I’m currently working on <strong>data science</strong></li>
+  <li>📫 How to reach me: <strong>omar.oasc@gmail.com</strong></li>
+  <li>👯 I’m looking to collaborate on <strong>data science</strong></li>
+  <li>👨‍💻 All of my public projects are available at <strong><a href="https://github.com/santoyocota">https://github.com/santoyocota</a></strong></li>
+  <li>⚡ Fun fact: <strong>I like to know new things about the universe</strong></li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
