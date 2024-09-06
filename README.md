@@ -13,9 +13,6 @@
       ></strong
     >
   </li>
-  <li>
-    ⚡ Fun fact: <strong>I like to know new things about the universe</strong>
-  </li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
